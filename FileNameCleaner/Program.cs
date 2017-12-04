@@ -50,3 +50,4 @@ namespace FileNameCleaner
         }
     }
 }
+//simple change for expirement with merging in Git
