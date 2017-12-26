@@ -56,3 +56,4 @@ Temporary Items
 *.suo
 .vs/ToDoListMVC/v14/.suo
 *.suo
+/.vs/FileNameCleaner/v15/Server/sqlite3

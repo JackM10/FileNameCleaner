@@ -50,3 +50,5 @@ namespace FileNameCleaner
         }
     }
 }
+
+//GitHub 4 VS test comment
